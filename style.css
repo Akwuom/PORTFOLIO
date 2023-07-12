@@ -15,6 +15,9 @@ html {
 }
 
 .center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 /* end of reset and common styles */
 
