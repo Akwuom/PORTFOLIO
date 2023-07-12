@@ -13,6 +13,10 @@
 html {
   font-size: 62.5%;
 }
+
+.center{
+
+}
 /* end of reset and common styles */
 
 /* Section 1 */
@@ -40,11 +44,11 @@ html {
   margin-bottom: 5rem;
   text-transform: uppercase;
   letter-spacing: 1rem;
-  margin-top: 7rem;
   border-bottom: 0.3rem solid #fff;
   text-shadow: 0.2rem 0.2 rem 1 rem #555;
   transform: skew(-10deg);
 }
+
 .person-img {
   width: 25rem;
   height: 25rem;
@@ -71,5 +75,14 @@ html {
   font-weight: 700;
   color: #333;
   background-color: #fff;
+  border: 0.3rem solid #333;
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
 }
 /* End of Section 1 */
+
+/* Navbar */
+
+
+/* End of Navbar */
